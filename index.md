@@ -1,36 +1,36 @@
-## Welcome to GitHub Pages
+# Hai kak, selamat datang
+![header](razan.png)
+Saya Razan saya seorang Mahasiswa dari Informatika umbandung, saya pegiat cyber security🧑🏻.
 
-Situs resmiku [disini kak](https://www.razancode.my.id) saat ini saya sedang ingin membuat team perancang website.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Wawasan
 
-### Markdown
+ - [karya saya]📱(https://www.razancode.my.id)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - [blog saya]🖥️(https://tobinfoin.blogspot.com/)
 
-```markdown
-Syntax highlighted code block
+## 🛠 Kemampuan
 
-# Header 1
-## Header 2
-### Header 3
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-- Bulleted
-- List
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## 🔗 Kontak Saya
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muhammadrazan999/muhammadrazan999.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.razancode.my.id)
 
-### Support or Contact
+[![instagram](https://img.shields.io/badge/my_instagram-900C3F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![whatsapp](https://img.shields.io/badge/chat_me_on_WhatssApp-00A36C?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6287822002484/)
+
+## 🔗 Channel & Tutorial
+
+[![portfolio](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCqAksmkQ7U9PyTrcAn0JxXw)
+
+
+
+
